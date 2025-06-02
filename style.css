@@ -1,7 +1,7 @@
 
 body {
     font-family: sans-serif;
-    background: linear-gradient(to right, #1e3c72, #2a5298);
+    background: linear-gradient(to right, #295704, #40982a);
     color: white;
     display: flex;
     align-items: center;
@@ -16,7 +16,7 @@ body {
   
   button {
     background: white;
-    color: #1e3c72;
+    color: #040f01;
     border: none;
     padding: 1em 2em;
     font-size: 1em;
